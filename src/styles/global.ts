@@ -9,11 +9,7 @@ export default createGlobalStyle`
     }
 
     body {
-        background: #c2c2c2;
-    }
-
-    body, input, button {
-        font: 16px Roboto, sans-serif;
+        background-image: url("https://i.pinimg.com/736x/f0/a1/f8/f0a1f8311fd84cd6cc4cce3e6d0ae3a8.jpg");
     }
 
     #root {
